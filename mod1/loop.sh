@@ -2,6 +2,7 @@
 
 # loop.sh - Ensinando formas de usar o For e while
 #
+#-----------------------------------------#
 # Autor: Felipe PF
 # GitHub: https://github.com/FelipePF
 # Manutenção: Felipe PF
