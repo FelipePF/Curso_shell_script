@@ -1,4 +1,17 @@
 #!/usr/bin/env bash
+
+# loop.sh - Ensinando formas de usar o For
+#
+# Autor: Felipe PF
+# GitHub: https://github.com/FelipePF
+# Manutenção: Felipe PF
+#
+#-----------------------------------------#
+#Testado em:
+# zsh 5.8 (x86_64-debian-linux-gnu)
+#
+#-----------------------------------------#
+
 clear
 echo "
 ======= for 1"
