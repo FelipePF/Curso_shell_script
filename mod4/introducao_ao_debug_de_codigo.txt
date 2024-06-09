@@ -1,0 +1,13 @@
+Existem algumas formas de debugar um código em bash, dentre elas:
+
+1. Usando Bash -x -v
+
+  Ele gera um dump do código, como mostrar coisas comentadas, funções e o que elas fazem em geral.
+
+2. Usando set -x
+
+  Podemos usar entre um trecho que código o qual queremos debugar, então ele só mostrará naquela parte em específico. Usar set -x onde começa e set +x onde termina.
+
+3. Criando a própria função
+
+  Essa é obvia, criamos uma própria função para debugar o código em específico, o qual podemos utilizar vários níveis para debugar um programa.
